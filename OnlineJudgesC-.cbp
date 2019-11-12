@@ -32,7 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="EducationalJourney.cpp" />
+		<Unit filename="GraphConectivity.cpp" />
+		<Unit filename="InstantViewOfBigBang.cpp" />
+		<Unit filename="RomeoAndJulietSecrets.cpp" />
+		<Unit filename="ThunderMountain.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="nacional.cpp" />
 		<Extensions>
 			<envvars />
 			<code_completion />
